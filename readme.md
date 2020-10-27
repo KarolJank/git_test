@@ -1,0 +1,1 @@
+This is KarolJank's first git project!"
